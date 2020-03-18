@@ -1,10 +1,7 @@
 # Voxel Runner
 A Terraria-like survival game in the form of an endless runner.
-Made in Unity.
 
-To check on progress and give suggestions, check my Trello page:
-	
-	https://trello.com/b/dw54u2Mk/survival-game
+Made in Unity.
 
 # Author
 	Name: Nasif Mauthoor
@@ -21,7 +18,7 @@ To obtain the rights to use and edit these files, contact my email above.
 	Generation works by randomly removing or adding 1 to the current height.
 	Basic player sprite just to test the game out.
 
-# TODO: 
+## TODO: 
 	Add Perlin Noise world generation.
 	
 	Create a better sprite for the character.
